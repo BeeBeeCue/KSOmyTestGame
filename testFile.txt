@@ -1,4 +1,4 @@
-This is a test file
+This is a test file, and I just edited the first line to get a conflict.
 with few lines
 so we can edit
 and get conflict
