@@ -1,4 +1,13 @@
+
 This is a test file, and I just edited the first line to get a conflict.
+
+This is a test file; muhaha I disaGrEe
+
 with few lines
 so we can edit
-and get conflict
+and get conflicts
+
+Loads of them
+Mhuahahahahahahahaha
+
+Krist's gold shall be mine
