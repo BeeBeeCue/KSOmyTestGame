@@ -62,5 +62,6 @@ J:\KSO\KSOmyTestGame\Break_dance_School\Break_Dance\Temp\bin\Debug\UnityEditor.S
 J:\KSO\KSOmyTestGame\Break_dance_School\Break_Dance\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
 J:\KSO\KSOmyTestGame\Break_dance_School\Break_Dance\Temp\bin\Debug\UnityEditor.VR.xml
 J:\KSO\KSOmyTestGame\Break_dance_School\Break_Dance\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+J:\KSO\KSOmyTestGame\Break_dance_School\Break_Dance\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
 J:\KSO\KSOmyTestGame\Break_dance_School\Break_Dance\obj\Debug\Assembly-CSharp.dll
 J:\KSO\KSOmyTestGame\Break_dance_School\Break_Dance\obj\Debug\Assembly-CSharp.pdb
