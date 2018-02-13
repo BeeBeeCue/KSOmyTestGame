@@ -22,16 +22,16 @@ namespace AssemblyCSharp
 			switch (input) 
 			{
 			case "up":
-				transform.position = new Vector2 (transform.position.x, (float)(transform.position.y+0.643));
+				transform.position = new Vector2 (transform.position.x, (float)(transform.position.y+1.286));
 				break;
 			case "left":
-				transform.position = new Vector2 ((float)(transform.position.x-0.643), transform.position.y);
+				transform.position = new Vector2 ((float)(transform.position.x-1.286), transform.position.y);
 				break;
 			case "right":
-				transform.position = new Vector2 ((float)(transform.position.x+0.643), transform.position.y);
+				transform.position = new Vector2 ((float)(transform.position.x+1.286), transform.position.y);
 				break;
 			case "down":
-				transform.position = new Vector2 (transform.position.x,(float)( transform.position.y-0.643));
+				transform.position = new Vector2 (transform.position.x,(float)( transform.position.y-1.286));
 				break;
 			}
 
